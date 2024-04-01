@@ -4,7 +4,7 @@
 
 **About Viso.al**
 
-Viso.ai. a Switzerland-based start-up that offers no-code computer vision technologies for enterprise use. Co-founders Gaudenz Boesch and Nico Klingler formed the company in 2018 upon introducing deep learning advancements in image recognition to their work in intelligent video analytics.[1] In 2023, Viso.ai received over $9 million in a round of seed funding from global venture capital firm Accel, backed by funding from industry experts from DeepMind and UiPath.[2]
+Viso.ai. is a Switzerland-based start-up that offers no-code computer vision technologies for enterprise use. Co-founders Gaudenz Boesch and Nico Klingler formed the company in 2018 upon introducing deep learning advancements in image recognition to their work in intelligent video analytics.[1] In 2023, Viso.ai received over $9 million in a round of seed funding from global venture capital firm Accel, backed by funding from industry experts from DeepMind and UiPath.[2]
 
 Viso.ai’s flagship offering is an end-to-end no-code computer vision SaaS platform called Viso Suite that lowers the barriers for small- and medium-sized businesses to take advantage of computer vision for applications such as healthcare, agriculture, manufacturing and security. The platform uses visual programming, deep learning frameworks like TensorFlow and PyTorch, and integrates with various AI models, hardware, and software to offer seamless user experience across these technologies.[3] 
 
